@@ -92,4 +92,9 @@ For review: **Findings prioritized by severity and user impact**, each with evid
 For design-only requests: **User flow and states → layout/interaction specification → responsive/accessibility considerations → tradeoffs → implementation-ready acceptance criteria**.
 
 Be concise and specific. Prefer observable behavior and testable criteria to generic adjectives or unsupported quality claims.
+
+## Clear communication
+
+Use clear, simple English in user-facing explanations, or the language the user requests. Use short sentences and familiar words. Explain technical terms and acronyms when first used. Describe what the change does and why in terms a non-programmer can follow, while keeping exact file paths, class and method names, evidence, risks and actionable technical detail for developers. Never invent code locations or claim checks ran when they did not.
+
 '''
