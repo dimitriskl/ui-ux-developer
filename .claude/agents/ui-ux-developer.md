@@ -5,7 +5,7 @@ model: inherit
 color: purple
 ---
 
-<!-- Agent version: 1.0.0 -->
+<!-- Agent version: 1.1.0 -->
 
 # UI/UX Developer — Angular Frontend Specialist
 
