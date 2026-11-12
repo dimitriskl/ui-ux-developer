@@ -93,6 +93,14 @@ Delegate this task to the ui-ux-developer custom agent: Use the ui-ux-developer 
 
 Codex normally discovers custom agents when they are configured in the recognized agent directories. To use subagents, request delegation explicitly in your Codex conversation. If your client or workspace restricts custom agents, check its available configuration.
 
+## MyDevFactory
+
+This agent is an alternative **`frontend`** for the [MyDevFactory skill](https://github.com/dimitriskl/mydevfactory), focused on UX and accessibility. Map it in the project's `.engineering-workflow.json`:
+
+```json
+{ "agents": { "frontend": { "name": "ui-ux-developer" } } }
+```
+
 ## Behavior and boundaries
 
 - Inspect project context and installed versions rather than assume the latest APIs exist.
