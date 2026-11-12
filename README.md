@@ -2,6 +2,8 @@
 
 **Version:** `1.1.0` · **License:** [MIT](LICENSE) · **Maintainer:** [dimitriskl](https://github.com/dimitriskl)
 
+> Part of [MyDevFactory](https://github.com/dimitriskl/mydevfactory). Its one-command installer sets up this agent, the other seven and the workflow skill together. You can also install this agent on its own (below).
+
 An Angular-focused UI/UX implementation and audit agent prioritizing accessibility, responsive design, usable workflows and testable outcomes.
 
 ## What problem does it solve?
